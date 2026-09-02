@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="vqJY3IMl6-HiJxu_ianQ">
-    <mxGraphModel dx="970" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1654" dy="2087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,11 +11,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vhyF0kN5Yem3CXYTh1CB-22" edge="1" parent="1" source="vhyF0kN5Yem3CXYTh1CB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="vhyF0kN5Yem3CXYTh1CB-17">
+        <mxCell id="vhyF0kN5Yem3CXYTh1CB-22" edge="1" parent="1" source="vhyF0kN5Yem3CXYTh1CB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vhyF0kN5Yem3CXYTh1CB-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="400" />
-              <mxPoint x="159.5" y="400" />
+              <mxPoint x="140" y="400" />
+              <mxPoint x="140" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VsQsIj5BpZ5Y8d9cyvpe-3" edge="1" parent="1" source="vhyF0kN5Yem3CXYTh1CB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="VsQsIj5BpZ5Y8d9cyvpe-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="182.01" y="188.3" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -139,17 +147,14 @@
             <mxPoint x="410" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vhyF0kN5Yem3CXYTh1CB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clavier modulaire A4&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="vhyF0kN5Yem3CXYTh1CB-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Clavier modulaire A4&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="166" x="331" y="20" as="geometry" />
         </mxCell>
         <mxCell id="sLxyKdg8FOhKinkLgmW6-39" edge="1" parent="1" source="vhyF0kN5Yem3CXYTh1CB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sLxyKdg8FOhKinkLgmW6-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vhyF0kN5Yem3CXYTh1CB-17" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Est-ce que l&#39;écran devrait être programmable par l&#39;utilisateur.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="90" x="137" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="sLxyKdg8FOhKinkLgmW6-37" edge="1" parent="1" source="vhyF0kN5Yem3CXYTh1CB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sLxyKdg8FOhKinkLgmW6-36" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="90" width="90" x="150" y="410" as="geometry" />
         </mxCell>
         <mxCell id="vhyF0kN5Yem3CXYTh1CB-18" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Taille de l&#39;écran&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="90" x="10" y="230" as="geometry" />
@@ -237,10 +242,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sLxyKdg8FOhKinkLgmW6-32" edge="1" parent="1" source="sLxyKdg8FOhKinkLgmW6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sLxyKdg8FOhKinkLgmW6-31" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="630" />
+              <mxPoint x="60" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sLxyKdg8FOhKinkLgmW6-17" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="Qu&#39;est ce que l&#39;écran devrait afficher?" vertex="1">
-          <mxGeometry height="90" width="90" x="90" y="570" as="geometry" />
+          <mxGeometry height="100" width="100" x="10" y="524" as="geometry" />
         </mxCell>
         <mxCell id="sLxyKdg8FOhKinkLgmW6-29" edge="1" parent="1" source="sLxyKdg8FOhKinkLgmW6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="sLxyKdg8FOhKinkLgmW6-28">
           <mxGeometry relative="1" as="geometry">
@@ -265,7 +275,7 @@
           <mxGeometry height="90" width="90" x="217" y="-140" as="geometry" />
         </mxCell>
         <mxCell id="sLxyKdg8FOhKinkLgmW6-31" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="Les modules branchés, l&#39;heure, la consommation de courant, et les paramètre des divers modules." vertex="1">
-          <mxGeometry height="100" width="100" x="20" y="706" as="geometry" />
+          <mxGeometry height="100" width="100" x="10" y="650" as="geometry" />
         </mxCell>
         <mxCell id="sLxyKdg8FOhKinkLgmW6-42" edge="1" parent="1" source="sLxyKdg8FOhKinkLgmW6-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sLxyKdg8FOhKinkLgmW6-41" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -278,14 +288,13 @@
         <mxCell id="sLxyKdg8FOhKinkLgmW6-33" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" value="Module alimentation" vertex="1">
           <mxGeometry height="90" width="90" x="374" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="YVOs7hEqaQKO1zKC8nYZ-2" edge="1" parent="1" source="sLxyKdg8FOhKinkLgmW6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YVOs7hEqaQKO1zKC8nYZ-1" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sLxyKdg8FOhKinkLgmW6-36" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="L&#39;écran devrait pas être plus grand qu&#39;un pavé numérique.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="90" x="10" y="350" as="geometry" />
+        <mxCell id="YVOs7hEqaQKO1zKC8nYZ-2" edge="1" parent="1" source="vhyF0kN5Yem3CXYTh1CB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YVOs7hEqaQKO1zKC8nYZ-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="440" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sLxyKdg8FOhKinkLgmW6-38" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="Oui, mais pourrait devenir difficile d&#39;implémenter toutes les fonctionnalité." vertex="1">
-          <mxGeometry height="90" width="90" x="160" y="410" as="geometry" />
+          <mxGeometry height="90" width="90" x="135" y="553.5" as="geometry" />
         </mxCell>
         <mxCell id="sLxyKdg8FOhKinkLgmW6-41" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" value="Seulement si le PCB principale n&#39;as pas asser de place." vertex="1">
           <mxGeometry height="90" width="90" x="407" y="650" as="geometry" />
@@ -327,7 +336,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YVOs7hEqaQKO1zKC8nYZ-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="La moitié d&#39;un pavé numérique pour les fonctionanilitées attendues.&amp;nbsp;" vertex="1">
-          <mxGeometry height="90" width="90" x="10" y="470" as="geometry" />
+          <mxGeometry height="90" width="90" x="10" y="360" as="geometry" />
         </mxCell>
         <mxCell id="YVOs7hEqaQKO1zKC8nYZ-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#eeeeee;strokeColor=#36393d;" value="Juste des LED blanche pas programmables." vertex="1">
           <mxGeometry height="90" width="90" x="137" y="-265" as="geometry" />
@@ -364,6 +373,9 @@
         </mxCell>
         <mxCell id="YVOs7hEqaQKO1zKC8nYZ-32" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" value="Puissance maximale 25 W." vertex="1">
           <mxGeometry height="90" width="90" x="550" y="693.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VsQsIj5BpZ5Y8d9cyvpe-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" value="Écran avec couleur" vertex="1">
+          <mxGeometry height="90" width="90" x="137" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
