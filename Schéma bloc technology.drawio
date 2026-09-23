@@ -16,7 +16,7 @@
         <mxCell id="cpha8YHsVeHuHfeYJABq-40" edge="1" parent="1" source="Fpl0dtBBC-Xi74FqTeZc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="cpha8YHsVeHuHfeYJABq-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="682.5" y="570" />
+              <mxPoint x="672.5" y="570" />
             </Array>
             <mxPoint x="630" y="447.5" as="sourcePoint" />
           </mxGeometry>
@@ -281,7 +281,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fpl0dtBBC-Xi74FqTeZc-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Bus CAN" vertex="1">
-          <mxGeometry height="50" width="90" x="660" y="340" as="geometry" />
+          <mxGeometry height="50" width="90" x="650" y="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
