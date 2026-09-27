@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BdyK0oqARtiKerQPyLqC-5" edge="1" parent="1" source="kr3KraD6ZvUKiGRtHWmD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BdyK0oqARtiKerQPyLqC-7">
+        <mxCell id="BdyK0oqARtiKerQPyLqC-5" edge="1" parent="1" source="kr3KraD6ZvUKiGRtHWmD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="BdyK0oqARtiKerQPyLqC-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="640" />
@@ -52,7 +52,7 @@
             <mxPoint x="420" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kr3KraD6ZvUKiGRtHWmD-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;br&gt;&lt;div align=&quot;center&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-family: roboto, helvetica, sans-serif; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;«&amp;nbsp;&lt;/span&gt;&lt;/font&gt;Bluetooth&lt;span style=&quot;font-family: roboto, helvetica, sans-serif; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&lt;font&gt;&amp;nbsp;»&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="kr3KraD6ZvUKiGRtHWmD-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;br&gt;&lt;div align=&quot;center&quot;&gt;Communication&amp;nbsp;&lt;font&gt;&lt;span style=&quot;font-family: roboto, helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;«&amp;nbsp;&lt;/span&gt;&lt;/font&gt;Bluetooth&lt;span style=&quot;font-family: roboto, helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;&amp;nbsp;»&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="260" y="450" as="geometry" />
         </mxCell>
         <mxCell id="kr3KraD6ZvUKiGRtHWmD-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LED Blanche" vertex="1">
@@ -200,7 +200,7 @@
         <mxCell id="cpha8YHsVeHuHfeYJABq-39" edge="1" parent="1" source="cpha8YHsVeHuHfeYJABq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cpha8YHsVeHuHfeYJABq-21" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cpha8YHsVeHuHfeYJABq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Amplificateur&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="cpha8YHsVeHuHfeYJABq-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Amplificateur du Type&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;class-D&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="980" y="540" as="geometry" />
         </mxCell>
         <mxCell id="cpha8YHsVeHuHfeYJABq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LED Blanche" vertex="1">
@@ -307,7 +307,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BdyK0oqARtiKerQPyLqC-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font&gt;&lt;span style=&quot;font-family: roboto, helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;«&amp;nbsp;&lt;/span&gt;&lt;/font&gt;Bluetooth&lt;span style=&quot;font-family: roboto, helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;&amp;nbsp;»&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="BdyK0oqARtiKerQPyLqC-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Communication&amp;nbsp;&lt;font&gt;&lt;span style=&quot;font-family: roboto, helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;«&amp;nbsp;&lt;/span&gt;&lt;/font&gt;Bluetooth&lt;span style=&quot;font-family: roboto, helvetica, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;&amp;nbsp;»&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="580" y="610" as="geometry" />
         </mxCell>
         <mxCell id="BdyK0oqARtiKerQPyLqC-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
