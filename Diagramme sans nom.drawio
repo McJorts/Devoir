@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="xGNLK57rd-BsDio61YCY">
-    <mxGraphModel dx="2054" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -902,6 +902,9 @@
         </mxCell>
         <mxCell id="cVRiWh70zgSZEP41su4p-218" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Écran" vertex="1">
           <mxGeometry height="60" width="120" x="1130" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-229" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" value="x6 si le temps le permet" vertex="1">
+          <mxGeometry height="60" width="60" x="1260" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
