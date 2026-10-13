@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="xGNLK57rd-BsDio61YCY">
-    <mxGraphModel dx="1187" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,6 +199,45 @@
         </mxCell>
         <mxCell id="cVRiWh70zgSZEP41su4p-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;NUCLEO&lt;/div&gt;&lt;div&gt;STM32F072RB&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="920" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-184" edge="1" parent="1" source="cVRiWh70zgSZEP41su4p-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="cVRiWh70zgSZEP41su4p-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-187" connectable="0" parent="cVRiWh70zgSZEP41su4p-184" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SCK" vertex="1">
+          <mxGeometry relative="1" x="-0.0971" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-194" connectable="0" parent="cVRiWh70zgSZEP41su4p-184" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PB13" vertex="1">
+          <mxGeometry relative="1" x="-0.5243" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-185" edge="1" parent="1" source="cVRiWh70zgSZEP41su4p-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cVRiWh70zgSZEP41su4p-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-188" connectable="0" parent="cVRiWh70zgSZEP41su4p-185" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="MOSI" vertex="1">
+          <mxGeometry relative="1" x="0.3396" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-193" connectable="0" parent="cVRiWh70zgSZEP41su4p-185" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PC3" vertex="1">
+          <mxGeometry relative="1" x="-0.535" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-186" edge="1" parent="1" source="cVRiWh70zgSZEP41su4p-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="cVRiWh70zgSZEP41su4p-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-189" connectable="0" parent="cVRiWh70zgSZEP41su4p-186" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="MISO" vertex="1">
+          <mxGeometry relative="1" x="0.391" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-192" connectable="0" parent="cVRiWh70zgSZEP41su4p-186" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PC2" vertex="1">
+          <mxGeometry relative="1" x="-0.4997" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cVRiWh70zgSZEP41su4p-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;NUCLEO&lt;/div&gt;&lt;div&gt;STM32F072RB&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="920" y="310" as="geometry" />
@@ -721,6 +760,9 @@
         </mxCell>
         <mxCell id="cVRiWh70zgSZEP41su4p-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="DA" vertex="1">
           <mxGeometry height="60" width="120" x="920" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="cVRiWh70zgSZEP41su4p-183" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Adafruit TFT display 2&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="1130" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
